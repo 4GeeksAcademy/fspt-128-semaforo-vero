@@ -9,3 +9,30 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.semaforo{
+    background-color: black;
+}
+.verde {
+  width: 200px;
+  height: 200px;
+  background-color:green;
+  border-radius: 50%;
+}
+  .amarillo {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  border-radius: 50%;
+  }
+  .rojo{
+
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-radius: 50%;
+  }
+  .semaforo{
+    width:256px;
+    height:500px;
+    background-color:grey;
+  }
